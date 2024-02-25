@@ -1,5 +1,6 @@
 shalvin cp
 2205032
 bca
+/pull/push/clone/
 /computer aided software engineering tool
 
